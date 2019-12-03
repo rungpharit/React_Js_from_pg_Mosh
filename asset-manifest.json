@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react_js_from_pg_mosh/static/css/main.b100e6da.chunk.css",
+    "main.js": "/react_js_from_pg_mosh/static/js/main.69424206.chunk.js",
+    "main.js.map": "/react_js_from_pg_mosh/static/js/main.69424206.chunk.js.map",
+    "runtime-main.js": "/react_js_from_pg_mosh/static/js/runtime-main.ed38f408.js",
+    "runtime-main.js.map": "/react_js_from_pg_mosh/static/js/runtime-main.ed38f408.js.map",
+    "static/css/2.f65acde2.chunk.css": "/react_js_from_pg_mosh/static/css/2.f65acde2.chunk.css",
+    "static/js/2.58231fed.chunk.js": "/react_js_from_pg_mosh/static/js/2.58231fed.chunk.js",
+    "static/js/2.58231fed.chunk.js.map": "/react_js_from_pg_mosh/static/js/2.58231fed.chunk.js.map",
+    "index.html": "/react_js_from_pg_mosh/index.html",
+    "precache-manifest.486cc7b53ae6d21b8aa13a957c983a51.js": "/react_js_from_pg_mosh/precache-manifest.486cc7b53ae6d21b8aa13a957c983a51.js",
+    "service-worker.js": "/react_js_from_pg_mosh/service-worker.js",
+    "static/css/2.f65acde2.chunk.css.map": "/react_js_from_pg_mosh/static/css/2.f65acde2.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/react_js_from_pg_mosh/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed38f408.js",
+    "static/css/2.f65acde2.chunk.css",
+    "static/js/2.58231fed.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.69424206.chunk.js"
+  ]
+}
